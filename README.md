@@ -1,5 +1,4 @@
-# Header 1
-CBG Construction 
+# CBG Construction 
 ## Header 2 
 Website Under Construction 
 ## Header 2
